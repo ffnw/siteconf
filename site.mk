@@ -13,4 +13,5 @@ GLUON_SITE_PACKAGES := \
 	firewall \
 	haveged \
 	gluon-status-page \
-	gluon-next-node
+	gluon-next-node \
+	ffol-fastdreg
