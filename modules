@@ -1,4 +1,4 @@
 GLUON_SITE_FEEDS='ffol'
 
 PACKAGES_FFOL_REPO=git://freifunk-ol.de/ffol/packages.git
-PACKAGES_FFOL_COMMIT=68f1446d932accc95a7dcbdac92fc62ee821e001
+PACKAGES_FFOL_COMMIT=HEAD
