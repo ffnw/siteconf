@@ -14,4 +14,6 @@ GLUON_SITE_PACKAGES := \
 	haveged \
 	gluon-status-page \
 	gluon-next-node \
-	ffol-fastdreg
+	ffol-fastdreg \
+	ffol-configurator \
+	ffol-nodewatcher
