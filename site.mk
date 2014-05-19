@@ -17,3 +17,9 @@ GLUON_SITE_PACKAGES := \
 	ffol-fastdreg \
 	ffol-configurator \
 	ffol-nodewatcher
+
+DEFAULT_GLUON_RELEASE := 0.5.2+0$(shell date '+%Y%m%d')
+
+# Allow overriding the release number from the command line
+GLUON_RELEASE ?= $(DEFAULT_GLUON_RELEASE)
+
