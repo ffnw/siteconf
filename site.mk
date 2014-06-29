@@ -1,5 +1,6 @@
 GLUON_SITE_PACKAGES := \
 	gluon-config-mode \
+	gluon-firewall  \
 	gluon-luci-admin \
 	gluon-luci-autoupdater \
 	gluon-mesh-batman-adv \
