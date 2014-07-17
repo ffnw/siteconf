@@ -3,6 +3,7 @@ GLUON_SITE_PACKAGES := \
 	gluon-firewall  \
 	gluon-luci-admin \
 	gluon-luci-autoupdater \
+	gluon-luci-portconfig \
 	gluon-mesh-batman-adv \
 	gluon-mesh-vpn-fastd \
 	gluon-autoupdater \
@@ -19,7 +20,7 @@ GLUON_SITE_PACKAGES := \
 	ffol-configurator \
 	ffol-nodewatcher
 
-DEFAULT_GLUON_RELEASE := 0.5.2+0$(shell date '+%Y%m%d')
+DEFAULT_GLUON_RELEASE := 0.5.3+0$(shell date '+%Y%m%d')
 
 # Allow overriding the release number from the command line
 GLUON_RELEASE ?= $(DEFAULT_GLUON_RELEASE)
