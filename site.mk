@@ -1,21 +1,22 @@
 GLUON_SITE_PACKAGES := \
+	gluon-alfred \
+	gluon-announced \
+	gluon-autoupdater \
 	gluon-config-mode \
-	gluon-firewall  \
+	gluon-ebtables-filter-multicast \
+	gluon-ebtables-filter-ra-dhcp \
+	gluon-legacy \
 	gluon-luci-admin \
 	gluon-luci-autoupdater \
 	gluon-luci-portconfig \
+	gluon-next-node \
 	gluon-mesh-batman-adv \
 	gluon-mesh-vpn-fastd \
-	gluon-autoupdater \
-	gluon-alfred \
-	iputils-ping6 \
+	gluon-radvd \
+	gluon-status-page \
 	iwinfo \
 	iptables \
-	kmod-ipt-nathelper \
-	firewall \
 	haveged \
-	gluon-status-page \
-	gluon-next-node \
 	ffol-fastdreg \
 	ffol-configurator \
 	ffol-nodewatcher
