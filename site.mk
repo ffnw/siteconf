@@ -14,7 +14,7 @@ GLUON_SITE_PACKAGES := \
 	gluon-luci-autoupdater \
 	gluon-luci-portconfig \
 	gluon-next-node \
-	gluon-mesh-batman-adv \
+	gluon-mesh-batman-adv-14 \
 	gluon-mesh-vpn-fastd \
 	gluon-radvd \
 	gluon-status-page \
