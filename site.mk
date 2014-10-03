@@ -24,7 +24,8 @@ GLUON_SITE_PACKAGES := \
 	haveged \
 	ffol-fastdreg \
 	ffol-configurator \
-	ffol-nodewatcher
+	ffol-nodewatcher \
+	ffol-branding
 
 DEFAULT_GLUON_RELEASE := 0.5.3+0$(shell date '+%Y%m%d')
 
