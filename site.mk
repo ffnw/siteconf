@@ -3,7 +3,7 @@ GLUON_SITE_PACKAGES := \
 	gluon-announced \
 	gluon-ath9k-workaround \
 	gluon-autoupdater \
-	gluon-config-mode
+	gluon-config-mode \
 	gluon-ebtables-filter-multicast \
 	gluon-ebtables-filter-ra-dhcp \
 	gluon-luci-admin \
