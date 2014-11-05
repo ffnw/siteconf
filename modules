@@ -1,4 +1,5 @@
 GLUON_SITE_FEEDS='ffnw'
 
-PACKAGES_FFNW_REPO=http://git.freifunk-ol.de/root/packages.git
+PACKAGES_FFNW_REPO=https://git.nordwest.freifunk.net/root/packages.git
+PACKAGES_FFNW_BRANCH=0.5.3
 PACKAGES_FFNW_COMMIT=b8120af0f15da45e24775a7aa14fc998cfe0a5fb
