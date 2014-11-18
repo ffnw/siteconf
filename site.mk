@@ -19,7 +19,8 @@ GLUON_SITE_PACKAGES := \
 	haveged \
 	ffnw-fastdreg \
 	ffnw-configurator \
-	ffnw-nodewatcher
+	ffnw-nodewatcher \
+	ffnw-wget
 
 DEFAULT_GLUON_RELEASE := 0.5.3+0$(shell date '+%Y%m%d')
 
