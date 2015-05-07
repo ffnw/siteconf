@@ -21,7 +21,6 @@ GLUON_SITE_PACKAGES := \
 	iwinfo \
 	iptables \
 	haveged \
-	ffnw-fastdreg \
 	ffnw-configurator \
 	ffnw-nodewatcher \
 	ffnw-opkgconfig
