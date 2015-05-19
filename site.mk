@@ -23,9 +23,10 @@ GLUON_SITE_PACKAGES := \
 	haveged \
 	ffnw-configurator \
 	ffnw-nodewatcher \
-	ffnw-opkgconfig
+	ffnw-opkgconfig \
+	ffnw-autoupdater-mod
 
-DEFAULT_GLUON_RELEASE := 0.5.5.3+0$(shell date '+%Y%m%d')
+DEFAULT_GLUON_RELEASE := 0.5.5.4+0$(shell date '+%Y%m%d')
 
 # Allow overriding the release number from the command line
 GLUON_RELEASE ?= $(DEFAULT_GLUON_RELEASE)
