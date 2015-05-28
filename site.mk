@@ -14,7 +14,7 @@ GLUON_SITE_PACKAGES := \
 	gluon-luci-portconfig \
 	gluon-luci-private-wifi \
 	gluon-next-node \
-	gluon-mesh-batman-adv-14 \
+	gluon-mesh-batman-adv-15 \
 	gluon-mesh-vpn-fastd \
 	gluon-radvd \
 	gluon-status-page \
@@ -23,7 +23,7 @@ GLUON_SITE_PACKAGES := \
 	haveged \
 	ffnw-configurator \
 	ffnw-nodewatcher \
-	ffnw-opkgconfig 
+	ffnw-opkgconfig
 
 DEFAULT_GLUON_RELEASE := 0.5.6+0$(shell date '+%Y%m%d')
 
