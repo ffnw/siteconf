@@ -22,8 +22,7 @@ GLUON_SITE_PACKAGES := \
 	iptables \
 	haveged \
 	ffnw-configurator \
-	ffnw-nodewatcher \
-	ffnw-opkgconfig
+	ffnw-nodewatcher
 
 DEFAULT_GLUON_RELEASE := 0.5.6+0$(shell date '+%Y%m%d')
 
